@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Estilos.css"],"names":[],"mappings":"AAAA,SACE,UAAW,CACX,WACF,CAEA,UACE,UAAW,CACX,WACF","file":"main.3f12586b.chunk.css","sourcesContent":["img.logo {\r\n  width: 5rem;\r\n  padding: 5px;\r\n}\r\n\r\nimg.logo2 {\r\n  width: 6rem;\r\n  padding: 5px;\r\n}\r\n"]}
